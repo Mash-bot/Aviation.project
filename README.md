@@ -1,6 +1,6 @@
 README.md
-    # Project Title
-Data Driven Recommendations; aviation project
+   
+  # Data Driven Recommendations; aviation project
 
   # Overview
 In this project, an analysis of historical aviation data from the National Transportation and Safety Board is done to determine the aircraft that are of less risk to an organization which wants to enter into the aviation business.
