@@ -1,11 +1,12 @@
 README.md
-    #Project Title
+    # Project Title
 Data Driven Recommendations; aviation project
 
-  #Overview
+  # Overview
 In this project, an analysis of historical aviation data from the National Transportation and Safety Board is done to determine the aircraft that are of less risk to an organization which wants to enter into the aviation business.
 
-  #Business understanding
+   # Business understanding
+   
 -We want to identify the aircraft that is associated with the lowest accident rates and has the highest safety record.
 
 -In order to do that we need to assess factors like make, category, Engine types by the number of accidents. 
