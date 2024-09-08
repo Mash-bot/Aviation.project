@@ -43,3 +43,7 @@ In this project, an analysis of historical aviation data from the National Trans
 • If the company plans to include Cessna, safety measures and training of pilots on handling Cessna aircraft should be prioritized.
 
 • The company should consider including amateur built planes in its fleet.
+
+   # Tableau public Link.(visualizations)
+   
+- check out tableau public Visualization https://public.tableau.com/views/FinalTableauproject_17256239739540/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
